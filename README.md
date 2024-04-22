@@ -22,6 +22,7 @@ It's also recommended to setup virtual environment before running the program fo
 
 Then activate the venv.
 
+Configure AWS Amplify for user authentication
 
 # Requirements
 For flask python go to `flask_backend` and run command:
